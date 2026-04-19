@@ -32,6 +32,8 @@ python -m pip install networkx matplotlib pandas scipy
 python karate_club_influence_analysis.py
 ```
 
+![image](https://github.com/xuanxxx2002/karate-club-influence-analysis/blob/main/centrality_chart.png)
+
 ## 資料集
 
 [Zachary's Karate Club](https://en.wikipedia.org/wiki/Zachary%27s_karate_club)（1977）— 34 個節點、78 條邊，是社會網路分析領域的經典基準資料集。
