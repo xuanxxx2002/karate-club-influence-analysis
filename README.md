@@ -2,6 +2,8 @@
 
 使用 NetworkX 對經典的 **Karate Club** 社交網路進行中心性分析，識別網路中的關鍵影響者。
 
+![image](https://github.com/xuanxxx2002/karate-club-influence-analysis/blob/main/centrality_chart.png)
+
 ## 分析內容
 
 | 指標 | 說明 |
@@ -31,8 +33,6 @@ python -m pip install networkx matplotlib pandas scipy
 ```bash
 python karate_club_influence_analysis.py
 ```
-
-![image](https://github.com/xuanxxx2002/karate-club-influence-analysis/blob/main/centrality_chart.png)
 
 ## 資料集
 
